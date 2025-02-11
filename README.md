@@ -28,4 +28,4 @@
 
 👇 **Exemplo - Planilha Resumo:**
 
-<img src="./image.png">
+<img src="./img/image.png">

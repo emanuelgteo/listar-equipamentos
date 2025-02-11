@@ -28,4 +28,4 @@
 
 👇 **Exemplo - Planilha Resumo:**
 
-![alt text](image.png)
+<img src="./image.png">
